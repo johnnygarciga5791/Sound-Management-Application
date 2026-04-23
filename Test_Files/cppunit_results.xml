@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding='ISO-8859-1' standalone='yes' ?>
+<TestRun>
+  <FailedTests></FailedTests>
+  <SuccessfulTests>
+    <Test id="1">
+      <Name>UserManagementTest::testUserLogin</Name>
+    </Test>
+    <Test id="2">
+      <Name>UserManagementTest::testAccountInfo</Name>
+    </Test>
+    <Test id="3">
+      <Name>UserManagementTest::testRecordingStatus</Name>
+    </Test>
+    <Test id="4">
+      <Name>UserManagementTest::testPasswordValidation</Name>
+    </Test>
+    <Test id="5">
+      <Name>UserManagementTest::testSaveRecording</Name>
+    </Test>
+    <Test id="6">
+      <Name>UserManagementTest::testPlaybackState</Name>
+    </Test>
+    <Test id="7">
+      <Name>UserManagementTest::testVolumeSliderRange</Name>
+    </Test>
+    <Test id="8">
+      <Name>UserManagementTest::testGuestPermissions</Name>
+    </Test>
+    <Test id="9">
+      <Name>UserManagementTest::testGuestCannotDelete</Name>
+    </Test>
+    <Test id="10">
+      <Name>UserManagementTest::testGuestDownloadRequiresSelection</Name>
+    </Test>
+    <Test id="11">
+      <Name>UserManagementTest::testGuestCannotCreateGuest</Name>
+    </Test>
+    <Test id="12">
+      <Name>UserManagementTest::testMaxRecordingDuration</Name>
+    </Test>
+    <Test id="13">
+      <Name>UserManagementTest::testDeleteSound</Name>
+    </Test>
+    <Test id="14">
+      <Name>UserManagementTest::testSoundListEmpty</Name>
+    </Test>
+    <Test id="15">
+      <Name>UserManagementTest::testPitchAffectsPlaybackRate</Name>
+    </Test>
+    <Test id="16">
+      <Name>UserManagementTest::testVolumeZero</Name>
+    </Test>
+    <Test id="17">
+      <Name>UserManagementTest::testLogout</Name>
+    </Test>
+    <Test id="18">
+      <Name>UserManagementTest::testRecordingOverwrite</Name>
+    </Test>
+    <Test id="19">
+      <Name>UserManagementTest::testSoundListSize</Name>
+    </Test>
+    <Test id="20">
+      <Name>UserManagementTest::testSessionPersistence</Name>
+    </Test>
+  </SuccessfulTests>
+  <Statistics>
+    <Tests>20</Tests>
+    <FailuresTotal>0</FailuresTotal>
+    <Errors>0</Errors>
+    <Failures>0</Failures>
+  </Statistics>
+</TestRun>
